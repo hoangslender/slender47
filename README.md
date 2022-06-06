@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @slender47
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hoang Slender
+- 👀 I’m interested in book, music and game
+- 🌱 I’m currently learning design and code C#
+- 💞️ I’m looking to collaborate on Fiverr
+- 📫 Reach me via slender.hth@gmail.com
 
 <!---
 slender47/slender47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
