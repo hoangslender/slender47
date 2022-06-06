@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hoang Slender
+- 👋 Hi, I’m Slender 47
 - 👀 I’m interested in book, music and game
 - 🌱 I’m currently learning design and code C#
 - 💞️ I’m looking to collaborate on Fiverr
